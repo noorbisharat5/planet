@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etOrbitAddPlanetFragment" type="id" />
+    <item name="etColorAddRestaurantFragment" type="id" />
+    <item name="etNameAddPlanetFragment" type="id" />
+    <item name="etColorAddPlanetFragment" type="id" />
+</resources>
